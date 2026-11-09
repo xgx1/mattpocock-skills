@@ -9,6 +9,7 @@ DSH 技能分组仓：**mattpocock-skills**
 ## 内容
 
 - `ask-matt`
+- `chief-of-staff`
 - `claude-handoff`
 - `codebase-design`
 - `code-review`
@@ -22,12 +23,13 @@ DSH 技能分组仓：**mattpocock-skills**
 - `implement-spec`
 - `improve-codebase-architecture`
 - `loop-me`
+- `pr`
 - `prototype`
 - `research`
-- `resolving-merge-conflicts`
 - `retro`
 - `setup-matt-pocock-skills`
 - `setup-ts-deep-modules`
+- `software-factory`
 - `tdd`
 - `teach`
 - `to-questionnaire`
